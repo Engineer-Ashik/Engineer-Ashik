@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Engineer-Ashik
-- 👀 I’m interested in JAVA programming
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in WEB Development
+- 🌱 I’m currently learning JAVA Script
 - 💞️ I’m looking to collaborate on any software firm
 - 📫 How to reach me : Here is my active emial address- engineerashikur@gmail.com and Here is my Bangladeshi contact number-01723747397
 
